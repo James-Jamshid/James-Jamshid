@@ -15,6 +15,11 @@
 }
 ```
 
+<a href="#" target="dark">
+
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zq-jhon&layout=compact&theme=react" alt="James-Jamshid's top languages" />
+</a>
+
 
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
@@ -28,5 +33,5 @@
 
 <br />
 
-- 📍 &nbsp; Current location: Daegu, South Korea
-- - 📨&nbsp; How to reach me:[jamshid.makh94@gmail.com]
+- 📍 Daegu, South Korea
+- - 📨 Contact me:[jamshid.makh94@gmail.com]
